@@ -94,9 +94,9 @@ A digital platform providing students with guidance through aptitude quizzes, ca
 ---
 
 ## 🐍 Contribution Snake
-
+<!-- GitHub contribution snake animation -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/vmit123/vmit123/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" />
+  <img src="https://raw.githubusercontent.com/vmit123/vmit123/gh-pages/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" />
 </p>
 
 ---
